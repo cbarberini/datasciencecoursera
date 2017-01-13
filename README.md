@@ -1,2 +1,2 @@
 # datasciencecoursera
-this is a demo repo
+repo for coursera data science specialization
